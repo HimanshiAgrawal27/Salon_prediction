@@ -1,0 +1,601 @@
+Age,Gender,Budget,Distance_km,Rating,Service_Type,Waiting_Time,Offers,Previous_Visits,Occasion,Will_Choose
+56,Female,Low,0.55,3.7,Haircut,58,No,6,Regular,No
+46,Male,High,8.29,3.2,Facial,26,No,3,Party,No
+32,Female,Low,2.67,2.9,Hair Spa,37,No,3,Regular,No
+25,Male,Medium,9.13,2.8,Makeup,40,No,9,Regular,No
+38,Male,High,0.51,4.7,Makeup,49,Yes,1,Regular,Yes
+56,Female,High,5.78,3.1,Haircut,27,Yes,0,Party,No
+36,Male,High,7.69,4.1,Makeup,49,No,8,Wedding,Yes
+40,Female,High,2.96,4.5,Haircut,49,No,1,Wedding,Yes
+28,Male,Medium,2.33,4.0,Makeup,38,Yes,7,Wedding,Yes
+28,Male,High,1.3,4.6,Facial,13,Yes,8,Regular,Yes
+41,Male,High,3.6,3.5,Haircut,28,Yes,3,Party,Yes
+53,Female,Low,5.82,4.9,Haircut,12,Yes,7,Regular,Yes
+57,Male,High,1.6,2.8,Facial,11,No,8,Wedding,Yes
+41,Male,Medium,4.08,2.8,Haircut,40,Yes,9,Wedding,Yes
+20,Male,Medium,0.59,4.1,Makeup,22,No,9,Party,Yes
+39,Male,Medium,8.28,4.9,Makeup,7,Yes,4,Regular,Yes
+19,Female,Medium,1.72,4.5,Haircut,32,Yes,6,Wedding,Yes
+41,Female,High,3.19,2.7,Makeup,10,Yes,9,Party,Yes
+47,Male,High,0.68,3.2,Hair Spa,48,No,3,Regular,Yes
+55,Female,Medium,4.61,4.8,Haircut,48,No,0,Regular,Yes
+19,Male,Medium,8.48,3.1,Facial,25,Yes,2,Wedding,No
+38,Male,High,4.23,4.5,Hair Spa,32,No,4,Wedding,Yes
+50,Male,Medium,2.21,4.6,Haircut,44,No,2,Regular,Yes
+29,Female,Low,7.66,3.7,Facial,58,Yes,6,Regular,No
+39,Female,Medium,7.99,3.5,Makeup,58,Yes,8,Wedding,Yes
+42,Female,Medium,2.15,3.6,Facial,5,No,5,Regular,Yes
+44,Female,Low,7.82,3.1,Hair Spa,40,No,9,Wedding,No
+59,Female,Low,9.5,4.7,Makeup,25,No,0,Regular,No
+45,Female,High,2.08,3.6,Haircut,47,Yes,6,Wedding,Yes
+33,Female,High,7.82,4.7,Makeup,39,Yes,2,Party,Yes
+32,Female,Low,7.23,2.8,Haircut,17,No,4,Wedding,No
+20,Female,Low,5.0,5.0,Haircut,53,Yes,9,Wedding,Yes
+54,Male,High,1.05,3.6,Facial,58,Yes,3,Party,Yes
+24,Female,Medium,1.21,2.6,Facial,58,No,9,Regular,Yes
+38,Female,Low,8.6,2.6,Facial,14,No,4,Party,No
+26,Female,High,9.91,4.4,Hair Spa,57,Yes,4,Wedding,Yes
+56,Female,Medium,6.92,4.1,Hair Spa,48,Yes,5,Regular,Yes
+35,Female,Low,4.74,4.5,Facial,51,No,9,Party,Yes
+21,Female,Medium,6.65,2.8,Hair Spa,57,Yes,9,Regular,Yes
+42,Female,High,6.15,2.6,Makeup,14,Yes,5,Regular,Yes
+31,Female,Low,4.14,3.8,Makeup,50,No,7,Party,No
+26,Female,Medium,1.12,3.5,Hair Spa,17,No,7,Regular,Yes
+43,Female,Low,8.3,3.7,Hair Spa,41,Yes,8,Party,No
+19,Female,Medium,4.03,5.0,Makeup,42,Yes,7,Wedding,Yes
+37,Male,High,8.28,4.9,Haircut,28,Yes,1,Regular,Yes
+45,Male,High,2.9,4.9,Makeup,6,No,9,Wedding,Yes
+24,Female,Low,0.51,4.5,Makeup,26,Yes,0,Wedding,Yes
+25,Female,Medium,2.01,3.4,Hair Spa,21,Yes,9,Regular,Yes
+52,Male,Low,4.95,3.5,Makeup,40,No,1,Party,No
+31,Female,Low,9.47,3.9,Hair Spa,18,No,1,Regular,No
+34,Male,Medium,1.47,4.6,Hair Spa,14,Yes,2,Wedding,Yes
+53,Male,Medium,8.61,2.7,Facial,39,No,9,Wedding,No
+57,Male,Medium,5.51,3.6,Makeup,29,No,6,Party,No
+21,Male,High,8.35,2.7,Haircut,7,Yes,1,Regular,No
+19,Male,Low,3.33,3.8,Facial,51,No,0,Wedding,No
+23,Female,Low,8.48,4.7,Hair Spa,42,No,5,Wedding,Yes
+59,Male,High,7.84,4.5,Hair Spa,21,Yes,8,Wedding,Yes
+21,Female,Medium,2.69,3.1,Haircut,16,No,2,Party,No
+46,Female,High,1.75,4.9,Hair Spa,58,Yes,5,Wedding,Yes
+35,Male,High,8.75,4.2,Makeup,56,Yes,2,Wedding,Yes
+43,Male,High,9.65,2.5,Facial,28,No,0,Regular,No
+51,Female,Low,0.8,3.1,Hair Spa,33,No,4,Regular,No
+27,Male,High,7.45,3.2,Hair Spa,47,No,9,Wedding,No
+53,Male,Low,9.14,2.7,Haircut,29,Yes,3,Wedding,No
+31,Female,Low,8.64,4.9,Makeup,40,No,6,Regular,Yes
+48,Female,Low,9.66,3.7,Hair Spa,30,Yes,5,Party,No
+32,Male,Medium,7.72,4.7,Haircut,42,No,9,Party,Yes
+25,Female,Low,4.7,3.3,Hair Spa,5,No,6,Party,No
+31,Male,Low,3.46,2.8,Haircut,24,No,4,Party,No
+40,Male,Medium,3.55,3.7,Haircut,59,Yes,3,Party,Yes
+57,Male,Low,7.38,2.8,Makeup,32,No,6,Party,No
+38,Female,High,7.59,3.7,Hair Spa,20,No,6,Party,No
+33,Female,High,2.4,4.8,Makeup,51,Yes,5,Party,Yes
+35,Female,Low,8.75,3.8,Haircut,21,Yes,7,Regular,No
+41,Female,Medium,7.29,4.0,Facial,44,No,3,Party,No
+43,Female,High,5.85,2.9,Hair Spa,32,No,9,Party,No
+42,Male,Medium,4.98,2.6,Facial,16,No,4,Party,Yes
+58,Male,Medium,5.66,2.8,Hair Spa,31,Yes,3,Wedding,Yes
+46,Male,High,2.01,4.0,Makeup,58,Yes,0,Regular,Yes
+32,Male,Medium,2.44,2.7,Makeup,57,Yes,7,Regular,Yes
+18,Female,High,1.37,3.4,Makeup,46,Yes,0,Regular,Yes
+42,Male,Medium,1.96,3.9,Makeup,51,No,4,Party,Yes
+24,Female,High,4.81,3.5,Makeup,34,Yes,5,Party,Yes
+26,Male,Low,5.54,2.9,Facial,45,Yes,5,Wedding,No
+41,Female,High,0.67,3.2,Makeup,38,Yes,4,Regular,Yes
+18,Female,High,8.07,4.8,Haircut,41,No,2,Party,Yes
+25,Male,High,3.29,4.2,Haircut,10,No,4,Regular,Yes
+41,Male,High,9.16,3.7,Facial,11,Yes,7,Wedding,Yes
+28,Male,Medium,9.69,2.5,Hair Spa,36,Yes,1,Wedding,No
+34,Male,Low,2.26,5.0,Haircut,36,No,5,Wedding,Yes
+25,Female,High,4.89,4.2,Hair Spa,57,No,8,Regular,Yes
+52,Male,Medium,0.51,3.3,Facial,29,No,7,Party,Yes
+52,Male,Low,6.18,4.7,Hair Spa,37,No,7,Party,Yes
+50,Female,Low,6.27,3.1,Hair Spa,59,No,7,Wedding,No
+22,Male,Low,2.85,3.9,Hair Spa,11,No,6,Party,No
+59,Male,Low,5.8,4.1,Hair Spa,56,No,7,Wedding,Yes
+56,Male,High,2.64,3.1,Facial,16,No,5,Regular,Yes
+58,Male,High,2.03,4.9,Haircut,20,Yes,1,Wedding,Yes
+45,Male,Medium,6.69,4.4,Makeup,20,Yes,1,Regular,Yes
+24,Female,Medium,3.6,3.9,Hair Spa,47,Yes,7,Wedding,Yes
+26,Male,Medium,6.11,3.0,Haircut,57,Yes,0,Party,No
+25,Male,Low,4.62,2.6,Haircut,40,Yes,5,Party,Yes
+29,Male,Low,9.85,3.3,Facial,17,Yes,5,Wedding,No
+51,Male,High,1.92,4.4,Haircut,11,No,3,Party,Yes
+50,Male,Low,4.91,3.2,Facial,40,No,9,Party,No
+40,Female,Low,6.96,3.8,Hair Spa,51,Yes,2,Party,No
+41,Male,Low,4.26,4.3,Hair Spa,55,Yes,2,Regular,Yes
+54,Female,Medium,9.76,2.8,Makeup,13,No,0,Party,No
+52,Female,Medium,7.36,4.2,Makeup,36,No,2,Regular,Yes
+57,Male,High,6.74,2.7,Makeup,15,No,3,Wedding,No
+39,Male,Low,7.69,4.9,Haircut,12,Yes,4,Party,Yes
+44,Male,Low,9.55,3.7,Hair Spa,37,No,2,Party,No
+52,Male,High,9.12,2.9,Facial,27,Yes,5,Party,Yes
+18,Female,Low,7.38,3.4,Makeup,29,Yes,4,Wedding,No
+52,Male,Low,7.62,3.5,Facial,12,No,2,Regular,No
+54,Male,Medium,1.89,4.4,Facial,49,No,5,Regular,Yes
+31,Male,High,1.48,4.4,Makeup,26,Yes,5,Party,Yes
+20,Male,High,5.92,4.0,Hair Spa,8,No,7,Wedding,No
+18,Male,High,0.67,2.8,Makeup,44,No,1,Wedding,No
+22,Male,High,5.08,2.9,Facial,7,Yes,0,Wedding,No
+43,Female,Medium,2.5,2.7,Makeup,33,No,3,Wedding,Yes
+31,Female,Medium,3.79,3.9,Facial,45,Yes,6,Wedding,Yes
+56,Male,Low,7.87,4.7,Facial,33,Yes,9,Regular,Yes
+44,Male,Low,9.44,3.6,Makeup,38,No,2,Regular,No
+26,Male,Low,1.19,2.9,Haircut,38,Yes,2,Regular,No
+32,Female,Low,5.58,3.9,Makeup,32,Yes,4,Party,No
+32,Male,Medium,8.88,4.5,Haircut,17,No,4,Wedding,Yes
+43,Female,High,1.28,4.4,Facial,19,No,9,Party,Yes
+59,Male,Medium,8.33,4.7,Facial,27,No,2,Wedding,Yes
+30,Male,Low,3.9,3.2,Haircut,48,Yes,8,Regular,Yes
+49,Male,Medium,3.56,3.0,Facial,30,Yes,3,Party,Yes
+56,Male,High,9.79,4.7,Haircut,8,No,2,Regular,Yes
+49,Female,High,2.41,4.1,Haircut,30,Yes,1,Wedding,Yes
+21,Female,Medium,7.09,3.3,Facial,44,No,9,Wedding,No
+47,Male,Medium,8.3,4.4,Hair Spa,13,No,8,Wedding,Yes
+54,Male,Medium,0.89,4.5,Haircut,59,Yes,3,Regular,Yes
+40,Female,Low,6.87,4.0,Makeup,9,No,2,Wedding,No
+56,Female,Medium,9.54,4.2,Makeup,36,Yes,6,Regular,Yes
+32,Female,Medium,1.68,3.4,Facial,24,Yes,7,Party,Yes
+46,Female,Medium,9.01,3.8,Hair Spa,54,No,1,Wedding,No
+53,Male,High,6.15,3.8,Facial,15,Yes,6,Wedding,Yes
+30,Female,High,6.36,4.6,Hair Spa,19,No,4,Wedding,Yes
+49,Male,Low,6.32,4.6,Haircut,36,Yes,4,Party,Yes
+24,Female,Low,3.34,4.6,Haircut,32,Yes,2,Wedding,Yes
+39,Female,High,9.38,2.5,Haircut,26,Yes,4,Regular,Yes
+45,Female,High,9.5,4.4,Haircut,45,No,1,Regular,Yes
+19,Female,High,6.44,4.4,Makeup,21,Yes,3,Wedding,Yes
+59,Female,Medium,7.94,4.2,Makeup,30,No,5,Wedding,Yes
+23,Male,Medium,6.32,4.4,Facial,48,Yes,0,Party,Yes
+45,Male,High,5.1,4.6,Hair Spa,11,Yes,9,Party,Yes
+45,Female,Medium,6.78,3.7,Haircut,46,No,3,Party,No
+37,Female,Medium,5.75,3.8,Haircut,30,No,5,Wedding,No
+47,Male,Low,6.18,2.8,Hair Spa,29,No,8,Party,No
+28,Female,High,7.95,3.5,Hair Spa,14,No,1,Party,No
+45,Female,High,5.07,4.1,Facial,49,No,6,Regular,Yes
+42,Male,Medium,0.89,4.5,Hair Spa,23,Yes,5,Party,Yes
+56,Female,High,2.06,3.0,Haircut,15,Yes,1,Regular,Yes
+50,Female,Low,4.67,2.8,Haircut,17,No,7,Regular,No
+18,Male,Low,7.39,4.2,Haircut,57,Yes,6,Party,Yes
+44,Male,Low,6.14,2.5,Haircut,12,Yes,4,Regular,No
+30,Male,High,6.68,2.9,Haircut,44,Yes,4,Wedding,Yes
+58,Female,High,5.05,2.6,Facial,8,No,6,Wedding,No
+20,Male,High,6.35,2.9,Haircut,51,Yes,8,Party,Yes
+56,Male,High,3.63,3.0,Facial,35,Yes,8,Wedding,Yes
+23,Male,High,4.97,3.5,Haircut,32,Yes,8,Regular,Yes
+25,Male,Low,7.57,3.5,Makeup,15,No,5,Wedding,No
+44,Male,Medium,8.78,4.7,Makeup,47,Yes,9,Party,Yes
+26,Male,Low,4.62,3.8,Makeup,5,Yes,5,Party,Yes
+54,Female,High,0.91,4.3,Makeup,53,No,2,Regular,Yes
+50,Female,Low,2.04,2.8,Facial,51,No,0,Party,No
+59,Male,High,0.7,3.1,Facial,56,Yes,6,Wedding,Yes
+41,Male,High,6.71,4.3,Hair Spa,42,Yes,3,Party,Yes
+32,Male,Low,3.66,2.6,Haircut,28,No,0,Regular,No
+49,Female,High,5.65,3.7,Makeup,58,No,7,Party,No
+49,Female,Medium,5.19,4.0,Facial,51,No,5,Wedding,No
+41,Female,High,1.27,4.0,Haircut,35,No,5,Regular,Yes
+58,Female,Medium,4.33,2.6,Haircut,45,No,1,Wedding,No
+29,Female,Medium,2.6,3.3,Facial,50,No,0,Regular,No
+56,Female,High,4.47,4.1,Makeup,54,No,1,Party,Yes
+19,Female,Low,2.43,2.9,Hair Spa,30,Yes,3,Regular,Yes
+20,Female,Medium,8.48,4.2,Haircut,53,No,1,Regular,Yes
+54,Female,Low,2.15,4.4,Hair Spa,54,No,0,Party,Yes
+34,Male,Medium,9.63,5.0,Makeup,9,Yes,6,Wedding,Yes
+19,Male,High,4.45,3.0,Makeup,24,No,7,Party,Yes
+19,Male,High,8.54,4.6,Hair Spa,56,No,5,Regular,Yes
+45,Male,Medium,6.47,3.8,Makeup,45,Yes,3,Party,Yes
+40,Female,High,7.49,3.4,Haircut,15,No,5,Regular,No
+54,Female,Medium,7.79,2.8,Hair Spa,58,Yes,2,Party,No
+49,Male,High,5.3,4.3,Makeup,37,Yes,7,Party,Yes
+50,Female,Low,5.66,3.1,Hair Spa,54,Yes,9,Wedding,No
+18,Male,High,5.38,3.4,Haircut,42,Yes,1,Regular,No
+36,Female,Low,6.09,2.7,Makeup,31,No,4,Wedding,No
+19,Male,High,0.78,4.5,Haircut,38,Yes,0,Regular,Yes
+43,Female,Low,4.26,4.4,Makeup,19,Yes,5,Party,Yes
+49,Female,High,6.26,4.3,Facial,36,No,1,Regular,Yes
+23,Male,Low,6.18,3.2,Makeup,25,Yes,3,Wedding,No
+49,Female,Medium,8.03,2.9,Hair Spa,50,Yes,5,Wedding,Yes
+21,Male,Medium,6.72,4.1,Makeup,9,Yes,9,Wedding,Yes
+28,Male,Low,9.93,3.7,Haircut,10,Yes,7,Regular,No
+34,Male,High,3.2,2.9,Haircut,42,No,7,Wedding,Yes
+55,Male,Low,3.91,4.2,Makeup,26,Yes,5,Wedding,Yes
+41,Female,High,4.15,5.0,Hair Spa,22,No,3,Wedding,Yes
+22,Female,Medium,4.93,4.4,Facial,18,No,7,Party,Yes
+51,Female,High,8.44,4.3,Hair Spa,14,Yes,7,Party,Yes
+23,Male,Medium,2.74,4.9,Facial,50,Yes,9,Regular,Yes
+39,Female,High,7.87,3.0,Haircut,17,Yes,0,Regular,No
+28,Male,High,4.35,3.9,Hair Spa,35,Yes,3,Wedding,Yes
+33,Female,High,6.22,4.9,Facial,34,No,3,Party,Yes
+50,Female,Low,6.51,2.9,Makeup,7,No,6,Wedding,No
+26,Female,Low,4.04,4.3,Haircut,34,No,6,Wedding,Yes
+23,Male,Medium,5.37,4.0,Makeup,10,Yes,7,Party,Yes
+33,Female,Medium,4.42,4.0,Haircut,33,No,4,Party,Yes
+46,Female,Low,1.16,4.2,Hair Spa,12,Yes,6,Party,Yes
+20,Male,Medium,4.65,4.8,Hair Spa,48,Yes,7,Regular,Yes
+37,Female,Low,1.43,4.5,Haircut,49,Yes,8,Regular,Yes
+53,Male,High,4.35,2.6,Haircut,47,Yes,2,Wedding,Yes
+36,Female,Medium,6.13,4.6,Haircut,48,Yes,2,Regular,Yes
+43,Male,Medium,6.0,3.1,Hair Spa,37,No,3,Party,No
+20,Male,Low,6.79,3.4,Facial,21,No,4,Party,No
+36,Female,Medium,1.4,3.7,Makeup,52,Yes,9,Regular,Yes
+37,Male,Medium,6.7,3.7,Makeup,15,No,0,Wedding,No
+49,Male,High,3.47,3.6,Hair Spa,17,Yes,6,Wedding,Yes
+24,Male,Medium,4.29,4.8,Makeup,54,Yes,8,Regular,Yes
+58,Male,High,8.65,4.3,Haircut,15,Yes,7,Wedding,Yes
+50,Male,Low,0.59,4.1,Facial,35,No,4,Wedding,Yes
+57,Male,Medium,6.09,2.6,Makeup,32,Yes,3,Wedding,Yes
+56,Female,High,6.19,4.8,Facial,48,Yes,6,Party,Yes
+35,Male,Low,4.27,4.8,Haircut,10,No,4,Party,Yes
+57,Male,Medium,2.75,4.5,Makeup,45,No,6,Regular,Yes
+18,Female,Low,2.73,2.5,Hair Spa,20,No,0,Party,No
+28,Female,Medium,8.9,2.6,Facial,8,Yes,0,Wedding,No
+45,Female,Low,4.7,3.1,Haircut,39,Yes,9,Party,Yes
+42,Female,Low,3.64,2.8,Facial,52,No,2,Regular,No
+40,Female,High,4.76,3.5,Makeup,30,Yes,1,Party,Yes
+48,Female,Low,6.86,4.8,Makeup,16,No,1,Wedding,No
+47,Female,Medium,1.88,3.7,Hair Spa,15,No,6,Wedding,Yes
+59,Male,Medium,4.77,2.5,Haircut,41,Yes,9,Regular,Yes
+52,Male,High,6.08,3.2,Haircut,29,Yes,1,Party,No
+24,Female,Medium,9.51,2.6,Hair Spa,22,No,3,Party,No
+33,Male,Medium,2.9,2.6,Hair Spa,23,No,1,Party,No
+43,Male,Medium,3.91,3.2,Haircut,27,No,5,Wedding,Yes
+19,Male,Low,4.1,3.2,Facial,59,No,7,Regular,No
+18,Female,Low,6.25,4.5,Facial,42,Yes,9,Party,Yes
+29,Female,Medium,3.89,4.9,Hair Spa,58,No,3,Wedding,Yes
+22,Male,High,5.57,3.4,Facial,22,No,4,Wedding,No
+54,Female,Low,7.93,3.6,Haircut,30,No,3,Wedding,No
+49,Male,High,7.2,4.6,Makeup,10,Yes,2,Party,Yes
+26,Male,Medium,4.74,3.2,Makeup,8,Yes,4,Party,Yes
+58,Male,Medium,8.71,2.9,Facial,48,No,8,Party,No
+52,Male,Low,5.8,4.6,Hair Spa,55,Yes,7,Party,Yes
+36,Female,Medium,5.63,2.6,Hair Spa,33,Yes,7,Party,Yes
+33,Female,Low,0.82,4.0,Hair Spa,38,Yes,7,Party,Yes
+20,Female,Medium,9.87,3.9,Hair Spa,21,No,7,Party,No
+37,Male,Medium,1.67,3.4,Hair Spa,47,No,6,Party,Yes
+41,Female,Low,2.7,3.3,Facial,47,Yes,7,Party,Yes
+50,Male,Low,0.99,4.4,Makeup,57,No,7,Wedding,Yes
+41,Female,Low,6.58,2.7,Makeup,20,No,7,Party,No
+28,Male,Medium,2.63,3.1,Facial,6,Yes,9,Regular,Yes
+25,Male,Medium,2.21,4.3,Hair Spa,38,Yes,6,Wedding,Yes
+53,Male,High,1.34,3.9,Facial,59,No,0,Party,No
+55,Female,Low,1.48,2.8,Makeup,12,Yes,3,Regular,Yes
+57,Female,Medium,6.05,4.7,Haircut,17,No,3,Party,Yes
+37,Female,Medium,7.04,3.5,Facial,46,No,4,Regular,No
+52,Female,Low,4.28,4.6,Hair Spa,12,Yes,9,Regular,Yes
+42,Male,High,5.06,4.5,Makeup,34,No,5,Regular,Yes
+52,Female,Low,7.02,4.1,Makeup,36,No,3,Regular,Yes
+42,Female,High,0.67,3.7,Makeup,40,Yes,1,Wedding,Yes
+46,Male,Medium,3.57,4.9,Makeup,51,Yes,5,Wedding,Yes
+35,Male,High,9.74,2.9,Hair Spa,34,Yes,7,Regular,Yes
+35,Male,Medium,6.01,4.3,Haircut,5,No,7,Party,Yes
+19,Female,Low,2.92,3.0,Makeup,47,Yes,6,Regular,Yes
+52,Male,Low,5.46,3.3,Facial,43,Yes,5,Wedding,No
+33,Male,Low,3.76,3.3,Haircut,21,Yes,1,Party,No
+58,Male,High,5.56,4.9,Makeup,24,Yes,6,Wedding,Yes
+53,Female,Medium,1.69,4.9,Haircut,28,No,4,Wedding,Yes
+50,Male,Low,1.76,3.0,Facial,54,No,5,Party,No
+21,Female,Low,1.86,2.6,Makeup,26,Yes,9,Regular,Yes
+50,Female,Medium,9.43,4.3,Facial,33,No,7,Regular,Yes
+31,Male,Low,7.46,3.5,Hair Spa,26,Yes,7,Regular,No
+38,Male,Medium,2.04,2.7,Makeup,48,Yes,2,Regular,Yes
+37,Female,Medium,2.29,4.2,Makeup,13,No,6,Party,Yes
+25,Male,Medium,7.44,3.9,Makeup,41,No,0,Party,No
+24,Male,Medium,1.98,5.0,Makeup,14,Yes,0,Party,Yes
+20,Female,Medium,2.73,3.1,Hair Spa,40,Yes,6,Wedding,Yes
+34,Female,High,9.65,3.5,Makeup,41,No,9,Party,No
+50,Male,Low,2.93,3.9,Haircut,32,Yes,8,Regular,Yes
+29,Female,High,6.79,4.5,Makeup,32,No,6,Wedding,Yes
+39,Male,Low,9.8,3.9,Hair Spa,46,Yes,9,Regular,No
+39,Male,High,4.06,4.0,Makeup,47,Yes,4,Regular,Yes
+47,Male,Medium,0.67,3.1,Haircut,25,No,7,Party,Yes
+55,Female,Low,2.82,4.6,Hair Spa,28,No,1,Party,Yes
+55,Male,Low,8.39,3.6,Hair Spa,46,No,8,Regular,No
+25,Male,High,8.71,2.9,Haircut,44,No,5,Regular,No
+44,Male,High,7.8,4.2,Haircut,6,No,8,Wedding,Yes
+44,Female,Low,1.57,3.0,Haircut,59,No,1,Party,No
+51,Female,High,8.06,2.7,Haircut,12,No,2,Wedding,No
+38,Female,High,9.23,4.7,Haircut,52,Yes,7,Wedding,Yes
+47,Female,High,6.21,3.7,Hair Spa,31,Yes,0,Wedding,No
+50,Female,Medium,9.44,4.4,Hair Spa,26,Yes,9,Regular,Yes
+45,Male,Medium,8.35,3.2,Makeup,41,No,6,Wedding,No
+50,Female,High,6.84,4.5,Makeup,31,No,6,Wedding,Yes
+22,Female,High,5.98,2.8,Facial,33,No,0,Regular,No
+36,Female,Medium,3.81,3.4,Makeup,7,Yes,8,Party,Yes
+21,Male,Medium,2.01,4.9,Makeup,48,No,7,Party,Yes
+52,Female,Low,6.25,4.5,Haircut,17,No,3,Wedding,Yes
+34,Female,Low,3.52,3.7,Haircut,49,Yes,9,Regular,Yes
+45,Male,Medium,8.73,3.3,Makeup,14,No,4,Party,No
+47,Female,High,9.94,4.7,Facial,40,Yes,1,Wedding,Yes
+46,Male,High,7.65,3.9,Haircut,13,Yes,8,Wedding,Yes
+23,Male,High,1.36,4.4,Makeup,58,No,5,Regular,Yes
+52,Male,High,3.24,4.4,Makeup,59,No,2,Wedding,Yes
+58,Male,Low,1.54,2.5,Hair Spa,31,No,6,Party,No
+54,Male,Medium,6.68,2.8,Facial,38,Yes,8,Regular,Yes
+41,Female,High,7.77,4.1,Hair Spa,55,Yes,2,Party,Yes
+46,Male,Low,9.29,2.9,Facial,5,Yes,1,Party,No
+48,Male,High,4.66,3.1,Haircut,36,No,6,Party,Yes
+52,Female,Medium,9.06,4.9,Facial,29,No,6,Wedding,Yes
+50,Male,Low,8.84,3.9,Makeup,33,No,3,Wedding,No
+38,Female,Medium,3.51,4.4,Makeup,11,No,8,Party,Yes
+49,Female,Medium,8.75,3.9,Facial,53,Yes,7,Party,Yes
+40,Female,Low,4.07,3.9,Facial,7,Yes,0,Regular,No
+50,Male,Low,3.32,2.7,Facial,24,Yes,0,Regular,No
+20,Male,Low,6.67,3.4,Hair Spa,24,Yes,4,Wedding,No
+35,Male,Low,3.62,3.2,Facial,57,No,5,Wedding,No
+42,Female,Low,6.49,3.5,Haircut,34,No,2,Regular,No
+59,Male,Low,6.29,4.5,Hair Spa,39,No,8,Party,Yes
+48,Male,Low,5.85,3.4,Hair Spa,39,Yes,9,Wedding,No
+20,Male,High,4.11,3.6,Facial,53,Yes,5,Party,Yes
+57,Female,Medium,5.71,3.5,Haircut,43,No,3,Regular,No
+41,Female,Low,6.17,2.7,Hair Spa,31,No,6,Wedding,No
+49,Male,High,5.68,3.6,Makeup,30,Yes,7,Wedding,Yes
+39,Male,High,4.72,3.0,Hair Spa,18,No,8,Regular,Yes
+40,Male,High,0.64,3.0,Facial,21,Yes,5,Wedding,Yes
+19,Male,Medium,6.08,2.7,Haircut,22,Yes,5,Regular,Yes
+44,Female,Low,2.1,3.4,Facial,49,Yes,7,Wedding,Yes
+59,Female,High,6.6,4.4,Makeup,56,No,4,Regular,Yes
+19,Female,Medium,7.71,3.2,Makeup,33,No,2,Wedding,No
+43,Female,Medium,5.25,3.3,Makeup,24,Yes,2,Party,No
+34,Male,Medium,5.65,4.1,Facial,57,No,5,Party,Yes
+57,Male,High,9.54,3.0,Hair Spa,31,Yes,1,Party,No
+50,Male,Low,8.55,4.7,Facial,22,Yes,5,Wedding,Yes
+26,Female,High,9.19,3.8,Haircut,8,Yes,5,Wedding,Yes
+56,Male,High,8.23,3.6,Hair Spa,5,Yes,7,Party,Yes
+46,Female,Low,1.53,3.9,Makeup,54,No,6,Party,No
+59,Female,Low,1.92,2.9,Facial,5,Yes,7,Regular,Yes
+43,Male,Low,5.5,4.0,Makeup,30,Yes,8,Regular,No
+52,Male,Medium,2.84,3.4,Makeup,49,No,5,Regular,Yes
+42,Male,Low,5.03,4.7,Haircut,24,Yes,2,Party,Yes
+41,Female,High,4.25,2.9,Hair Spa,56,Yes,9,Party,Yes
+30,Male,Low,5.72,3.8,Haircut,27,No,2,Party,No
+24,Female,High,7.6,4.0,Haircut,14,No,0,Regular,No
+53,Male,Medium,7.3,2.6,Haircut,15,No,4,Wedding,No
+37,Female,High,5.45,3.4,Makeup,45,Yes,3,Party,Yes
+18,Female,High,8.31,4.3,Haircut,45,No,8,Wedding,Yes
+25,Male,Low,4.59,4.6,Haircut,9,No,8,Wedding,Yes
+33,Female,Low,9.02,3.3,Hair Spa,5,Yes,4,Wedding,No
+31,Female,High,1.18,4.5,Hair Spa,21,Yes,9,Regular,Yes
+29,Male,Low,9.57,4.9,Haircut,26,Yes,3,Wedding,Yes
+40,Female,Medium,6.72,4.6,Hair Spa,38,Yes,6,Party,Yes
+32,Male,Medium,4.11,2.8,Hair Spa,49,Yes,5,Regular,Yes
+45,Female,Low,2.37,4.3,Haircut,45,No,3,Party,Yes
+51,Male,Medium,5.05,3.3,Makeup,33,No,9,Party,No
+19,Male,Low,2.35,5.0,Haircut,8,No,1,Regular,Yes
+49,Female,High,2.08,3.7,Hair Spa,9,Yes,0,Party,Yes
+40,Female,High,6.36,2.8,Makeup,15,Yes,3,Party,Yes
+39,Female,Medium,5.47,4.3,Facial,55,Yes,3,Regular,Yes
+42,Female,Low,6.87,3.3,Makeup,25,No,0,Party,No
+39,Female,Low,9.33,5.0,Hair Spa,39,No,5,Wedding,Yes
+39,Male,Medium,5.56,4.9,Makeup,16,Yes,3,Party,Yes
+59,Female,High,6.02,4.1,Haircut,30,No,0,Wedding,Yes
+23,Male,Medium,1.35,2.8,Facial,55,Yes,0,Party,Yes
+32,Male,High,7.32,4.2,Facial,23,No,0,Regular,Yes
+54,Female,Low,4.3,2.7,Facial,49,No,7,Regular,No
+50,Male,High,9.78,2.6,Hair Spa,11,No,9,Party,No
+25,Male,Medium,8.32,4.6,Hair Spa,51,Yes,7,Regular,Yes
+22,Male,Low,5.46,3.0,Facial,59,No,1,Party,No
+56,Male,Medium,1.67,3.4,Makeup,11,No,6,Regular,Yes
+21,Female,Medium,8.66,4.9,Facial,30,Yes,7,Wedding,Yes
+23,Male,High,8.1,3.3,Makeup,44,No,7,Party,No
+49,Female,Medium,2.25,3.2,Makeup,9,Yes,9,Wedding,Yes
+47,Female,High,3.31,4.8,Hair Spa,25,Yes,6,Wedding,Yes
+52,Male,Low,8.04,2.8,Makeup,18,Yes,4,Party,No
+57,Female,High,2.26,4.4,Facial,8,Yes,0,Wedding,Yes
+33,Female,Low,9.22,5.0,Hair Spa,27,Yes,8,Party,Yes
+30,Female,High,4.53,4.8,Haircut,46,No,6,Wedding,Yes
+59,Male,Medium,1.33,4.1,Haircut,24,Yes,1,Party,Yes
+47,Female,High,8.25,3.3,Hair Spa,19,Yes,5,Party,Yes
+36,Female,High,4.05,3.1,Facial,54,Yes,1,Regular,Yes
+34,Female,Low,5.5,4.5,Haircut,56,Yes,0,Party,Yes
+36,Male,Medium,1.57,4.7,Haircut,49,No,6,Party,Yes
+45,Female,High,0.52,3.8,Makeup,33,Yes,1,Wedding,Yes
+43,Male,Medium,6.56,3.1,Makeup,12,No,1,Party,No
+54,Male,High,5.39,2.8,Facial,45,Yes,4,Regular,Yes
+43,Male,High,6.14,2.7,Hair Spa,52,No,4,Wedding,No
+40,Male,Medium,8.04,4.3,Facial,23,Yes,6,Wedding,Yes
+26,Male,High,6.64,3.6,Hair Spa,52,Yes,0,Regular,No
+29,Male,Medium,2.16,4.8,Haircut,43,No,7,Wedding,Yes
+18,Female,High,3.93,4.3,Makeup,50,Yes,2,Wedding,Yes
+18,Male,Low,9.11,3.0,Facial,32,No,3,Wedding,No
+51,Female,Medium,7.81,4.0,Facial,50,Yes,8,Wedding,Yes
+49,Female,High,5.79,3.6,Hair Spa,31,No,3,Regular,No
+42,Male,High,2.93,3.9,Hair Spa,8,Yes,9,Regular,Yes
+57,Female,Low,3.37,4.3,Facial,19,Yes,4,Wedding,Yes
+18,Female,Medium,7.45,4.5,Hair Spa,39,No,6,Wedding,Yes
+33,Female,High,8.59,4.6,Facial,41,Yes,3,Regular,Yes
+56,Female,Low,6.88,3.1,Facial,5,Yes,0,Regular,No
+22,Male,High,8.19,2.6,Facial,7,Yes,8,Regular,Yes
+39,Female,Medium,7.78,4.3,Haircut,51,Yes,3,Wedding,Yes
+46,Male,High,1.92,2.8,Hair Spa,28,Yes,8,Wedding,Yes
+20,Female,High,4.53,3.3,Makeup,31,Yes,5,Party,Yes
+29,Female,High,1.95,2.5,Makeup,44,No,0,Regular,No
+43,Male,High,2.73,4.2,Hair Spa,40,No,2,Wedding,Yes
+33,Female,Low,8.76,2.9,Facial,38,No,1,Regular,No
+54,Female,Low,4.99,4.1,Makeup,33,Yes,8,Wedding,Yes
+39,Female,Medium,5.59,5.0,Makeup,28,No,0,Regular,Yes
+46,Male,Low,2.2,2.7,Hair Spa,28,Yes,8,Wedding,Yes
+31,Female,Low,3.47,2.7,Makeup,46,Yes,8,Party,Yes
+45,Male,Medium,2.69,3.4,Facial,8,Yes,7,Party,Yes
+22,Female,Low,2.46,4.7,Hair Spa,7,Yes,7,Regular,Yes
+47,Male,Low,6.56,3.0,Facial,38,No,0,Wedding,No
+22,Male,Medium,2.94,3.4,Makeup,53,Yes,7,Wedding,Yes
+29,Female,Medium,6.5,2.7,Makeup,27,No,9,Regular,No
+33,Female,Medium,1.06,4.4,Facial,57,Yes,2,Wedding,Yes
+43,Male,High,1.85,3.5,Haircut,56,No,6,Regular,Yes
+43,Male,High,3.11,4.4,Makeup,27,No,0,Wedding,Yes
+38,Female,Medium,6.17,4.8,Haircut,49,No,0,Regular,Yes
+56,Male,Medium,6.92,3.1,Makeup,9,No,9,Wedding,No
+53,Female,Medium,4.71,4.5,Haircut,35,No,4,Regular,Yes
+50,Female,High,4.74,2.6,Haircut,57,No,4,Wedding,Yes
+47,Female,High,7.38,4.7,Haircut,45,Yes,7,Party,Yes
+54,Female,Low,0.65,4.1,Facial,58,No,6,Wedding,Yes
+40,Male,Low,3.74,4.7,Haircut,10,Yes,7,Regular,Yes
+27,Female,Medium,8.28,2.5,Haircut,41,No,5,Party,No
+22,Male,High,6.23,2.9,Haircut,14,Yes,5,Wedding,Yes
+53,Female,High,3.7,3.5,Makeup,44,No,1,Party,No
+51,Male,High,9.1,3.4,Haircut,11,No,5,Wedding,No
+48,Female,Medium,7.84,3.1,Makeup,43,Yes,4,Party,Yes
+27,Male,Low,3.02,3.5,Haircut,42,No,2,Regular,No
+36,Male,Medium,6.63,2.8,Haircut,25,No,5,Wedding,No
+49,Female,Low,6.16,3.5,Facial,24,No,7,Wedding,No
+18,Female,Low,4.31,4.5,Makeup,7,Yes,8,Regular,Yes
+22,Female,Medium,3.99,3.7,Haircut,55,No,0,Party,No
+21,Female,Low,3.76,2.5,Makeup,26,Yes,2,Regular,No
+33,Male,Low,6.36,3.6,Makeup,51,No,2,Regular,No
+41,Female,High,4.7,2.6,Hair Spa,8,No,7,Party,Yes
+33,Male,Low,8.4,4.9,Facial,32,Yes,0,Regular,Yes
+19,Male,Medium,6.86,2.8,Facial,16,No,4,Wedding,No
+45,Female,Medium,1.16,4.3,Facial,42,No,2,Wedding,Yes
+49,Male,Low,6.58,4.9,Hair Spa,55,Yes,1,Wedding,Yes
+44,Male,High,3.08,4.6,Hair Spa,40,No,7,Regular,Yes
+37,Male,High,6.13,4.2,Facial,51,Yes,2,Wedding,Yes
+41,Male,Low,6.96,4.6,Hair Spa,45,Yes,6,Wedding,Yes
+29,Female,Low,2.69,5.0,Hair Spa,9,Yes,0,Wedding,Yes
+52,Female,Medium,4.84,4.1,Hair Spa,17,No,5,Wedding,Yes
+50,Female,Low,2.31,3.9,Facial,27,Yes,2,Wedding,No
+50,Female,High,1.0,4.1,Facial,54,Yes,7,Wedding,Yes
+54,Male,Low,4.1,3.8,Facial,34,No,5,Regular,No
+29,Male,Medium,3.95,4.1,Hair Spa,41,Yes,1,Wedding,Yes
+20,Female,Medium,9.96,3.6,Facial,29,No,5,Wedding,No
+18,Female,Medium,4.74,3.0,Hair Spa,52,No,6,Party,Yes
+50,Female,Medium,3.67,2.8,Haircut,31,No,4,Regular,Yes
+57,Male,Medium,6.01,2.7,Hair Spa,55,No,2,Regular,No
+27,Female,Low,1.34,3.2,Makeup,18,Yes,3,Regular,Yes
+46,Female,Low,9.64,2.6,Facial,52,Yes,3,Regular,No
+30,Female,Low,6.53,3.9,Facial,51,Yes,5,Wedding,No
+29,Male,Low,7.67,3.2,Makeup,58,Yes,9,Wedding,No
+48,Male,Medium,2.12,4.6,Hair Spa,40,Yes,0,Party,Yes
+19,Male,High,4.39,2.7,Haircut,43,No,3,Party,Yes
+52,Male,Low,4.52,3.1,Makeup,20,Yes,9,Regular,Yes
+40,Male,High,8.31,4.3,Makeup,26,Yes,3,Party,Yes
+34,Male,Low,0.51,4.0,Hair Spa,25,Yes,9,Party,Yes
+43,Male,Low,3.36,2.7,Facial,58,No,0,Regular,No
+25,Male,High,9.82,4.7,Hair Spa,25,No,8,Regular,Yes
+46,Female,Medium,5.01,4.7,Makeup,12,Yes,3,Party,Yes
+43,Female,Low,4.13,3.3,Makeup,53,No,6,Wedding,No
+27,Male,Low,1.64,3.4,Facial,20,Yes,2,Party,No
+43,Male,Low,9.75,5.0,Facial,59,Yes,9,Party,Yes
+51,Female,High,0.69,4.1,Facial,35,No,2,Wedding,Yes
+58,Male,Medium,7.5,3.8,Hair Spa,46,No,7,Wedding,No
+24,Male,High,7.8,4.6,Facial,14,Yes,7,Regular,Yes
+21,Male,High,2.81,3.2,Makeup,36,Yes,0,Regular,Yes
+28,Female,Medium,6.88,3.6,Makeup,38,No,9,Party,No
+46,Female,High,1.38,3.2,Haircut,13,Yes,1,Wedding,Yes
+53,Female,Medium,2.94,4.5,Hair Spa,21,No,7,Regular,Yes
+42,Female,Low,7.99,3.9,Haircut,15,Yes,0,Party,No
+38,Female,Medium,8.71,4.1,Makeup,36,No,7,Wedding,Yes
+53,Male,Low,6.28,3.1,Haircut,14,Yes,7,Party,No
+27,Female,High,5.31,3.1,Makeup,26,Yes,1,Regular,No
+54,Male,High,2.01,3.7,Haircut,21,No,3,Regular,Yes
+26,Male,Low,1.1,4.3,Facial,8,Yes,5,Wedding,Yes
+41,Female,High,1.62,3.8,Haircut,52,Yes,8,Party,Yes
+52,Female,Medium,2.66,2.6,Facial,56,No,7,Wedding,Yes
+52,Male,Low,3.75,4.7,Facial,51,Yes,7,Regular,Yes
+53,Male,High,4.12,2.7,Hair Spa,29,Yes,6,Regular,Yes
+35,Male,Low,3.79,4.9,Facial,25,Yes,8,Party,Yes
+56,Female,Medium,2.77,2.6,Facial,41,No,1,Party,No
+49,Female,Medium,5.34,4.2,Haircut,42,No,2,Party,Yes
+41,Female,High,8.34,2.7,Makeup,53,No,9,Wedding,No
+40,Female,Medium,3.16,4.8,Hair Spa,5,Yes,7,Party,Yes
+49,Female,Low,9.45,3.7,Facial,29,Yes,5,Party,No
+54,Male,Medium,8.8,2.8,Hair Spa,55,Yes,9,Regular,Yes
+29,Female,Low,2.04,3.4,Haircut,40,Yes,8,Regular,Yes
+30,Male,Low,7.97,2.9,Facial,21,No,9,Party,No
+40,Male,Medium,5.96,2.9,Haircut,45,Yes,3,Party,Yes
+42,Male,High,5.88,4.9,Hair Spa,28,Yes,7,Regular,Yes
+52,Female,Medium,4.21,3.6,Haircut,6,Yes,9,Party,Yes
+58,Female,Low,5.26,4.5,Hair Spa,44,No,2,Wedding,No
+47,Female,Low,4.27,4.1,Haircut,19,Yes,2,Wedding,Yes
+34,Male,Medium,5.63,4.2,Hair Spa,36,Yes,7,Wedding,Yes
+37,Male,High,6.47,2.8,Makeup,43,Yes,4,Party,Yes
+42,Male,High,6.91,3.1,Haircut,10,Yes,2,Regular,No
+39,Male,Low,5.56,4.5,Haircut,5,Yes,9,Party,Yes
+30,Male,Low,7.35,4.9,Makeup,51,No,0,Party,No
+36,Male,High,1.84,3.2,Makeup,27,Yes,2,Regular,Yes
+53,Female,Medium,2.51,3.2,Haircut,43,Yes,8,Regular,Yes
+29,Female,Low,8.28,3.7,Makeup,21,Yes,4,Regular,No
+58,Female,Low,3.56,5.0,Facial,38,Yes,9,Wedding,Yes
+36,Female,High,0.72,3.2,Hair Spa,45,Yes,1,Party,Yes
+29,Male,Medium,1.96,3.5,Hair Spa,33,Yes,6,Regular,Yes
+26,Male,High,2.62,4.7,Hair Spa,13,Yes,1,Party,Yes
+24,Female,Medium,9.59,2.5,Facial,17,Yes,3,Wedding,Yes
+45,Male,Medium,5.94,2.6,Makeup,10,Yes,6,Wedding,Yes
+31,Female,Medium,9.36,4.0,Makeup,10,Yes,3,Regular,Yes
+48,Female,Low,5.96,4.8,Haircut,24,No,6,Regular,Yes
+36,Female,High,5.05,3.1,Makeup,56,No,6,Party,No
+33,Male,High,3.48,3.7,Haircut,57,No,0,Regular,No
+22,Female,Medium,6.26,3.6,Facial,7,No,5,Party,No
+52,Female,Low,1.82,3.7,Hair Spa,21,Yes,8,Regular,Yes
+29,Female,Low,9.03,4.1,Hair Spa,53,No,1,Party,No
+42,Male,High,8.38,3.7,Hair Spa,16,No,2,Party,No
+38,Male,Low,3.52,3.6,Makeup,52,Yes,9,Party,Yes
+53,Female,Low,9.55,3.7,Haircut,51,No,4,Party,No
+40,Male,Medium,8.34,4.0,Haircut,49,No,8,Wedding,No
+33,Male,Low,6.83,3.8,Facial,59,Yes,3,Party,No
+56,Male,Medium,1.66,4.6,Makeup,5,Yes,0,Regular,Yes
+59,Male,High,5.04,2.6,Facial,21,Yes,3,Wedding,Yes
+56,Male,Low,5.31,4.6,Haircut,7,No,5,Wedding,Yes
+31,Male,High,2.71,4.6,Haircut,30,No,4,Party,Yes
+48,Male,High,1.26,3.2,Hair Spa,19,Yes,0,Wedding,Yes
+22,Male,Low,7.88,3.7,Makeup,40,Yes,3,Party,No
+52,Male,Low,1.66,3.6,Haircut,36,No,5,Regular,No
+40,Male,High,6.15,3.0,Hair Spa,36,Yes,9,Party,Yes
+46,Female,Low,9.4,3.5,Makeup,8,No,9,Wedding,No
+28,Female,Medium,8.82,2.6,Facial,22,Yes,3,Regular,Yes
+35,Male,Medium,3.14,3.2,Makeup,53,Yes,8,Party,Yes
+29,Female,Low,8.59,4.5,Makeup,23,No,4,Regular,Yes
+26,Female,High,0.5,3.2,Haircut,47,Yes,7,Regular,Yes
+27,Male,Low,0.67,4.5,Haircut,56,Yes,8,Wedding,Yes
+34,Male,Low,6.22,3.8,Makeup,39,Yes,9,Regular,No
+55,Male,High,3.97,4.7,Haircut,44,No,4,Wedding,Yes
+24,Female,High,4.17,3.9,Haircut,18,Yes,5,Regular,Yes
+30,Female,Medium,5.86,2.6,Haircut,37,Yes,0,Party,No
+57,Male,High,2.32,4.2,Hair Spa,18,Yes,6,Regular,Yes
+59,Male,Medium,2.51,2.6,Hair Spa,38,Yes,3,Party,Yes
+26,Male,High,5.1,3.6,Makeup,59,Yes,1,Party,No
+44,Female,Low,7.67,4.8,Haircut,8,Yes,4,Regular,Yes
+19,Female,Medium,6.39,2.9,Hair Spa,28,No,2,Party,No
+22,Female,Medium,3.32,3.5,Makeup,33,No,5,Regular,Yes
+46,Female,Medium,4.59,4.3,Haircut,23,Yes,7,Regular,Yes
+54,Male,Low,2.12,4.7,Facial,10,No,6,Party,Yes
+55,Male,Low,1.21,4.2,Haircut,37,No,2,Party,Yes
+36,Male,Low,7.94,3.1,Haircut,53,Yes,7,Wedding,No
+25,Male,Low,3.02,4.2,Hair Spa,44,No,1,Party,Yes
+18,Female,Low,2.19,3.2,Makeup,23,No,9,Wedding,No
+39,Female,Medium,7.07,4.3,Makeup,57,No,8,Party,Yes
+34,Male,Low,6.37,4.9,Hair Spa,5,No,3,Regular,Yes
+24,Male,Medium,6.52,4.3,Haircut,9,No,0,Party,Yes
+42,Female,Low,2.67,4.7,Facial,31,No,7,Regular,Yes
+21,Male,High,2.71,2.5,Haircut,20,No,6,Regular,Yes
+53,Female,Medium,2.6,4.3,Haircut,10,No,4,Regular,Yes
+23,Male,High,2.15,4.6,Facial,44,Yes,9,Wedding,Yes
+48,Male,Medium,6.73,2.6,Hair Spa,17,Yes,4,Party,Yes
+36,Male,High,8.56,4.7,Makeup,52,No,6,Regular,Yes
+56,Male,Low,7.38,3.1,Hair Spa,39,No,4,Regular,No
+44,Male,Low,8.02,4.2,Hair Spa,23,Yes,7,Wedding,Yes
+27,Male,Low,4.35,4.5,Haircut,16,No,5,Party,Yes
+43,Male,Medium,6.71,4.2,Makeup,20,No,4,Party,Yes
+36,Female,High,3.87,2.7,Makeup,47,Yes,8,Wedding,Yes
+56,Female,Low,5.49,4.0,Hair Spa,14,Yes,1,Wedding,No
+20,Female,High,5.08,3.9,Facial,29,Yes,0,Party,No
+30,Female,High,2.18,4.8,Hair Spa,24,No,7,Wedding,Yes
+45,Female,Low,4.18,3.5,Facial,35,No,2,Party,No
+37,Male,Low,9.66,3.3,Makeup,8,Yes,6,Party,No
+45,Male,High,2.86,4.4,Hair Spa,48,Yes,9,Regular,Yes
+25,Female,Low,1.77,3.5,Haircut,27,No,7,Regular,No
+58,Male,Low,4.48,4.1,Hair Spa,6,Yes,5,Party,Yes
+56,Female,Low,8.01,4.1,Makeup,26,No,9,Party,Yes
+18,Female,Medium,6.03,4.7,Haircut,55,No,8,Party,Yes
+20,Male,High,6.97,4.0,Haircut,41,Yes,6,Party,Yes
+30,Male,High,2.3,3.8,Facial,12,Yes,9,Party,Yes
+45,Male,Medium,6.38,2.8,Haircut,11,No,4,Party,No
+42,Female,High,3.57,2.8,Haircut,18,Yes,7,Wedding,Yes
+50,Male,Low,8.43,2.9,Hair Spa,59,Yes,1,Party,No
+55,Female,High,6.48,2.9,Makeup,7,Yes,6,Wedding,Yes
+23,Female,Low,2.39,4.1,Facial,54,Yes,3,Wedding,Yes
+49,Female,Medium,1.11,4.4,Hair Spa,20,No,8,Party,Yes
+38,Male,Low,0.91,3.8,Haircut,59,No,0,Party,No
+33,Male,High,4.03,4.6,Haircut,23,No,6,Wedding,Yes
+38,Female,High,3.03,5.0,Facial,55,No,5,Wedding,Yes
+28,Male,High,6.64,4.6,Makeup,22,Yes,7,Party,Yes
