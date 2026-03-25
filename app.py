@@ -30,29 +30,6 @@ label, .stMarkdown, p {
     color: #111827 !important;
 }
 
-/* ✅ FORCE ALL TEXT DARK (IMPORTANT FIX) */
-* {
-    color: #111827 !important;
-}
-
-/* 📦 Inputs */
-input, textarea {
-    color: #111827 !important;
-    background-color: #ffffff !important;
-}
-
-/* 🔽 Selectbox */
-div[data-baseweb="select"] * {
-    color: #111827 !important;
-    background-color: #ffffff !important;
-}
-
-/* Dropdown list */
-ul[role="listbox"] li {
-    color: #111827 !important;
-    background-color: #ffffff !important;
-}
-
 /* 🎚 Slider text */
 .stSlider span {
     color: #111827 !important;
