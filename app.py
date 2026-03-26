@@ -66,6 +66,7 @@ div[data-testid="stAlert"][class*="error"] {
 
 </style>
 """, unsafe_allow_html=True)
+st.set_page_config(page_title="Salon-Predict-form", layout="wide")
 # ✅ TITLE
 st.markdown("<h1>💄 Salon Customer Prediction App</h1>", unsafe_allow_html=True)
 
