@@ -71,7 +71,7 @@ st.markdown("<h1>💄 Salon Customer Prediction App</h1>", unsafe_allow_html=Tru
 
 # ✅ SIDEBAR
 
-st.markdown.info("✨ Glow with confidence, not perfection ✨")
+st.markdown("✨ Glow with confidence, not perfection ✨")
 
 # ✅ LOAD MODEL
 er = joblib.load("salon.pkl")
