@@ -30,10 +30,6 @@ label, .stMarkdown, p {
     color: #111827 !important;
 }
 
-/* 🎚 Slider text */
-.stSlider span {
-    color: #111827 !important;
-}
 
 /* 🔘 Button */
 .stButton>button {
@@ -74,8 +70,8 @@ div[data-testid="stAlert"][class*="error"] {
 st.markdown("<h1>💄 Salon Customer Prediction App</h1>", unsafe_allow_html=True)
 
 # ✅ SIDEBAR
-st.sidebar.markdown("## 🌸 Beauty Quote")
-st.sidebar.info("✨ Glow with confidence, not perfection ✨")
+
+st.markdown.info("✨ Glow with confidence, not perfection ✨")
 
 # ✅ LOAD MODEL
 er = joblib.load("salon.pkl")
